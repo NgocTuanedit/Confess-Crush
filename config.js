@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Quyên thích món quà tinh thần như này đúng hông? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'U là trời, Bạn đúng là hảo chí cốt <3',
+    question: 'U là trời, Bạn đúng là hảo chí cốt! Muốn làm ny tui hông? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Trêu mập tý thôi! Sinh nhật vui vẻ nhá. Đừng dỗi tau nhá',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/ngoctuan2k1.binhdinh' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
