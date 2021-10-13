@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'U là trời, Bạn đúng là hảo chí cốt! Muốn làm ny tui hông? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Trêu mập tý thôi! Sinh nhật vui vẻ nhá. Đừng dỗi tau nhá',
+    mess: 'Mình biết mà 🥰. iu bạn nhiều nhiều 😘😘',
+    messDesc: 'Trêu mập tý thôi! Luôn nở nụ cười trên môi, sinh nhật hạnh phúc nhá. iu Quyên kkkk',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/ngoctuan2k1.binhdinh' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
